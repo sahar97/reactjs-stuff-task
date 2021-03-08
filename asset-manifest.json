@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-stuff-task.git/static/css/main.15092e65.chunk.css",
-    "main.js": "/reactjs-stuff-task.git/static/js/main.d7d164b8.chunk.js",
-    "main.js.map": "/reactjs-stuff-task.git/static/js/main.d7d164b8.chunk.js.map",
-    "runtime-main.js": "/reactjs-stuff-task.git/static/js/runtime-main.63370058.js",
-    "runtime-main.js.map": "/reactjs-stuff-task.git/static/js/runtime-main.63370058.js.map",
-    "static/js/2.eee25bd0.chunk.js": "/reactjs-stuff-task.git/static/js/2.eee25bd0.chunk.js",
-    "static/js/2.eee25bd0.chunk.js.map": "/reactjs-stuff-task.git/static/js/2.eee25bd0.chunk.js.map",
-    "static/js/3.df83d7c9.chunk.js": "/reactjs-stuff-task.git/static/js/3.df83d7c9.chunk.js",
-    "static/js/3.df83d7c9.chunk.js.map": "/reactjs-stuff-task.git/static/js/3.df83d7c9.chunk.js.map",
-    "index.html": "/reactjs-stuff-task.git/index.html",
-    "static/css/main.15092e65.chunk.css.map": "/reactjs-stuff-task.git/static/css/main.15092e65.chunk.css.map",
-    "static/js/2.eee25bd0.chunk.js.LICENSE.txt": "/reactjs-stuff-task.git/static/js/2.eee25bd0.chunk.js.LICENSE.txt"
+    "main.css": "/reactjs-stuff-task/static/css/main.15092e65.chunk.css",
+    "main.js": "/reactjs-stuff-task/static/js/main.d7d164b8.chunk.js",
+    "main.js.map": "/reactjs-stuff-task/static/js/main.d7d164b8.chunk.js.map",
+    "runtime-main.js": "/reactjs-stuff-task/static/js/runtime-main.27aa7ae7.js",
+    "runtime-main.js.map": "/reactjs-stuff-task/static/js/runtime-main.27aa7ae7.js.map",
+    "static/js/2.eee25bd0.chunk.js": "/reactjs-stuff-task/static/js/2.eee25bd0.chunk.js",
+    "static/js/2.eee25bd0.chunk.js.map": "/reactjs-stuff-task/static/js/2.eee25bd0.chunk.js.map",
+    "static/js/3.df83d7c9.chunk.js": "/reactjs-stuff-task/static/js/3.df83d7c9.chunk.js",
+    "static/js/3.df83d7c9.chunk.js.map": "/reactjs-stuff-task/static/js/3.df83d7c9.chunk.js.map",
+    "index.html": "/reactjs-stuff-task/index.html",
+    "static/css/main.15092e65.chunk.css.map": "/reactjs-stuff-task/static/css/main.15092e65.chunk.css.map",
+    "static/js/2.eee25bd0.chunk.js.LICENSE.txt": "/reactjs-stuff-task/static/js/2.eee25bd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63370058.js",
+    "static/js/runtime-main.27aa7ae7.js",
     "static/js/2.eee25bd0.chunk.js",
     "static/css/main.15092e65.chunk.css",
     "static/js/main.d7d164b8.chunk.js"
